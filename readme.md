@@ -75,48 +75,11 @@ transactionService.withdraw(accountId, 200.0);
 transactionService.transfer(fromAccountId, toAccountId, 300.0);
 ```
 
-## Project Structure
-
-```
-Bank-management-system/
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── com/bank/
-│   │   │       ├── controller/
-│   │   │       ├── service/
-│   │   │       ├── model/
-│   │   │       └── repository/
-│   │   └── resources/
-│   └── test/
-├── pom.xml
-└── README.md
-```
 
 ## Technologies Used
 
 - Java
-- Spring Boot
-- Spring Data JPA
-- MySQL/PostgreSQL
-- Maven
-- JUnit (for testing)
-
-## Contributing
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-Project Link: [https://github.com/yourusername/Bank-management-system](https://github.com/yourusername/Bank-management-system)
+- MySQL
 
 ## Acknowledgments
 
