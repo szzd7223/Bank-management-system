@@ -49,10 +49,7 @@ cd Bank-management-system
 mvn clean install
 ```
 
-4. Run the application:
-```bash
-mvn spring-boot:run
-```
+4. Run the application using Login.java.
 
 ## Usage
 
